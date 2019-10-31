@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">NetCheck</string>
+    <string name="ui_net_status">Last state:</string>
+    <string name="ui_net_yes">Access Ok</string>
+    <string name="ui_net_yes_unexpected">Access Ok, but unexpected response!</string>
+    <string name="ui_net_not">No Access</string>
+    <string name="ui_net_err">Access Error</string>
+    <string name="ui_net_unknown">Press Button to ReCheck</string>
+    <string name="ui_top">Use NetCheck to quickly access any web resource. You can, for example, have a look at the source code of some web page or check the network access to verifying that your firewall and add-blockers are running propperly.</string>
+    <string name="ui_expl">NetCheck will try to connect to the following web resource to check if it can find an expected string:</string>
+    <string name="ui_url">URL to request</string>
+    <string name="ui_url_content">Expected string in the response</string>
+    <string name="ui_btn_save">Save &amp; ReCheck</string>
+    <string name="ui_btn_defaults">Reset</string>
+    <string name="ui_log">This is what the requested web page returned:</string>
+    <string name="ui_log_dummy">Here you will find the log</string>
+    <string name="ui_log_error">Error retrieving web resource, this may help you debugging:</string>
+    <string name="ui_log_no_network">%1$s%2$s\n%3$s</string>
+    <string name="ui_log_no_network_timeout">No connection: There was a timeout or there is no internet connection.</string>
+    <string name="ui_log_no_network_autherror">Authentication failure when accessing the URL, network seems to be ok..?</string>
+    <string name="ui_log_no_network_servererror">Server error, but connection seems to be ok.</string>
+    <string name="ui_log_no_network_networkerror">Network error while performing the request.</string>
+    <string name="ui_log_no_network_parseerror">Error when parsing the server response, but connection seems to be ok.</string>
+    <string name="ui_log_no_network_unknownhost">This may be caused by a typo in your URL: Please double check the URL!</string>
+</resources>

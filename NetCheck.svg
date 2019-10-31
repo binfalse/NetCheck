@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   id="svg8"
+   version="1.1"
+   viewBox="0 0 158.74999 158.74999"
+   height="600"
+   width="600"
+   sodipodi:docname="NetCheck.svg"
+   inkscape:export-filename="/home/martin/dev/android/studio/NetCheck/NetCheck.png"
+   inkscape:export-xdpi="81.919998"
+   inkscape:export-ydpi="81.919998"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)">
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="2556"
+     inkscape:window-height="1401"
+     id="namedview7"
+     showgrid="false"
+     inkscape:zoom="0.78666667"
+     inkscape:cx="32.592346"
+     inkscape:cy="204.85338"
+     inkscape:window-x="2560"
+     inkscape:window-y="18"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg8" />
+  <defs
+     id="defs7" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     transform="translate(128.324,85.378168)"
+     id="layer1">
+    <path
+       id="path821"
+       d="M -32.073127,68.238688 C -16.875501,73.352294 -7.9671355,71.007086 -0.3257245,61.67619 6.6318131,53.922299 11.936856,44.613269 15.560151,34.89535 19.334697,27.971487 6.9312681,19.078962 3.7567303,27.35403 2.1121825,34.02065 0.3383675,41.163051 -5.3072175,45.697774 c -9.8240805,9.647661 -29.0655315,5.563007 -35.8882195,-6.941951 -3.30837,-8.200206 -4.566681,-14.354616 -6.491081,-23.012649 -2.657125,-14.5235291 -2.81175,-29.565945 -0.5284,-44.138956 2.721625,-13.913669 6.545895,-26.145075 17.751591,-34.989428 9.775891,-6.981126 24.0893345,-1.956335 29.2682395,8.328951 3.668273,5.689315 3.47399,12.446558 4.5227578,18.844349 3.0051952,5.762188 13.0128207,-1.19781 13.7828457,-6.289151 0.781186,-8.210163 -3.913112,-15.676911 -7.089678,-22.930304 -3.4620699,-7.043243 -9.3359255,-13.846646 -17.6237585,-14.683781 -13.0229685,-3.307021 -27.1583615,-1.963473 -39.3182975,3.61868 -4.209951,4.08647 -6.591901,8.659078 -10.564951,12.999489 -5.448075,6.893163 -5.544375,14.411683 -7.177851,22.807131 -2.847875,5.953553 -0.819225,16.780757 -3.3416,20.261487 -3.865,-6.819231 -6.210075,-14.420604 -11.602026,-20.361477 -4.404075,-7.895605 -6.533975,-16.886956 -12.105597,-24.157144 -4.39018,-5.990948 -5.36625,-17.209446 -15.248407,-15.905224 -7.671,-0.03718 -9.95182,8.114456 -6.68885,13.964744 1.19088,10.038391 -1.09315,20.203354 0.9791,30.21147 3.2814,32.1780869 3.04798,64.605457 3.1216,96.887872 0.59773,10.892631 18.156057,11.902804 15.872177,-0.479617 -0.1125,-11.236961 -3.47617,-22.187344 -2.42497,-33.46836 2.1427,-21.2964473 -2.18748,-42.500724 -1.89875,-63.799925 4.425735,9.035984 6.002414,15.06948 10.80482,23.903983 4.802406,8.834502 12.67915,18.5041865 16.537626,26.583965 3.858476,8.079779 8.107733,16.552869 10.096555,22.383112 1.988822,5.830243 13.291589,27.790042 28.489215,32.903648 z"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:25.39999962px;line-height:1.25;font-family:'Greta Grotesk';-inkscape-font-specification:'Greta Grotesk, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="zcccccccccccccccccccccccccczzzz" />
+  </g>
+</svg>
